@@ -1,3 +1,3 @@
 # Amazfer
 New experiment
-## this is a random resposiytory for practice.
+## this is a random Repository for practice.
